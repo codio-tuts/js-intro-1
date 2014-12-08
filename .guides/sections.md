@@ -49,6 +49,8 @@ layout: ""
 Introducing variables and constants is usually the first thing you learn in any programming language.
 
 It may feel a bit dry but we'll build up to some fun stuff, so persevere.
+
+From the ![](.guides/img/rocket.png) Rocket menu at the top, select 'Variables'. This will give you your basic files to start playing with.
 ---
 title: The Semi Colon
 files:
@@ -60,7 +62,7 @@ editable: true
 layout: ""
 
 ---
-One thing you will notice in `example.js`, which should be inthe left hand panel, is that javascript statements end the line with a `;` character. We will go into this in more detail another time, but for now follow these guidelines
+One thing you will notice in `example.js`, which should be in the left hand panel, is that javascript statements end the line with a `;` character. We will go into this in more detail another time, but for now follow these guidelines
 
 - use a semi-colon at the end of a line unless that line ends in a `{` character (a so called 'block' delimiter).
 
